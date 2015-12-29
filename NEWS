@@ -7,7 +7,7 @@ Changes in 3.6.0
   - CAPI: GEOSMinimumRotatedRectangle and GEOSMinimumWidth
     (#729, Nyall Dawson)
 - Improvements:
-  - ...
+  - Keep snapping segments till nothing moves (#760)
 - C++ API changes:
   - Automatic memory management for GeometryFactory objects
 
